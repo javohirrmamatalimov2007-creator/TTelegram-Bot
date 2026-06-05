@@ -10,7 +10,7 @@ from telegram.ext import (
 )
  
 # ── Config ────────────────────────────────────────────────────────────────────
-BOT_TOKEN = "8562242152:AAFtW6imNRfykyRadL7LtgH7hn-VR3pks9g"
+BOT_TOKEN = "8251153783:AAEm6efy4z-nehMK7L3x2wLsp-a82fbrAhY"
  
 # ── Logging ───────────────────────────────────────────────────────────────────
 logging.basicConfig(
